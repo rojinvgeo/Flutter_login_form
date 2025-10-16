@@ -1,16 +1,30 @@
-# login_app
+# Flutter Login Form 🔐
 
-A new Flutter project.
+A simple and polished Flutter Login Form with:
+- Email & Password validation  
+- Show/Hide password toggle  
+- SnackBar success message  
+- Loading button animation  
+- Clean UI and UX polish  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🧠 Features
+- Form validation using `GlobalKey<FormState>`
+- Smooth button state transitions
+- Rounded inputs with consistent spacing
+- SnackBar feedback on successful login
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rojinvgeo/flutter_login_form.git
+   
+2. Open in VS Code or Android Studio
+3. Run:
+   flutter pub get
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
